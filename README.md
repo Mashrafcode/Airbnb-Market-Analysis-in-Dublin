@@ -1,4 +1,5 @@
 # Airbnb Market Analysis in Dublin
+<img src="/path/to/img.jpg" width=500px >
 # Problem Statement :
 
 A new city manager for Airbnb has started in Dublin and wants to better understand:
